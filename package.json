@@ -1,0 +1,25 @@
+{
+  "name": "jquery-poshytip",
+  "version": "1.2.1",
+  "description": "Poshy Tip - Jquery plugin for stylish tooltips",
+  "main": "src/jquery.poshytip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadikom/poshytip.git"
+  },
+  "keywords": [
+    "jquery",
+    "poshytip",
+    "vadikom",
+    "x-editable"
+  ],
+  "author": "vadikom",
+  "license": "GPL, MIT",
+  "bugs": {
+    "url": "https://github.com/vadikom/poshytip/issues"
+  },
+  "homepage": "http://vadikom.com/tools/poshy-tip-jquery-plugin-for-stylish-tooltips/"
+}
