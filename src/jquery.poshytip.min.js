@@ -1,5 +1,5 @@
 /*
- * Poshy Tip jQuery plugin v1.2.1
+ * Poshy Tip jQuery plugin v1.2.0
  * http://vadikom.com/tools/poshy-tip-jquery-plugin-for-stylish-tooltips/
  * Copyright 2010-2013, Vasil Dinkov, http://vadikom.com/
  */

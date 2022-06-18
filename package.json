@@ -1,6 +1,6 @@
 {
   "name": "jquery-poshytip",
-  "version": "1.2.1",
+  "version": "1.2.0",
   "description": "poshy tip - jquery plugin for stylish tooltips",
   "main": "src/jquery.poshytip.js",
   "scripts": {
@@ -28,7 +28,7 @@
       "url": "https://github.com/zhengmz"
     }
   ],
-  "license": "GPL-2.0, MIT",
+  "license": ["GPL-2.0", "MIT"],
   "bugs": {
     "url": "https://github.com/vadikom/poshytip/issues"
   },
